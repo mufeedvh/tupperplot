@@ -1,5 +1,11 @@
 # `tupperplot` 📐
 
+<br>
+<div align="center">
+  <img src="https://raw.githubusercontent.com/mufeedvh/tupperplot/main/assets/tuppers_self_referencial_formula_plotting_reel.gif" alt="a showcase reel of tuppers formula, pacmans, and the euler's identity being plotted repeatedly" width="420">
+</div>
+<br>
+
 **Tupper's self-referential formula** plotting itself on a framebuffer... and Pacman and the Euler's identity too!
 
 ## What's this formula?
@@ -8,7 +14,7 @@
 <div align="center">
   <table>
     <tr>
-      <td style="padding: 10px;"><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2c74e5046994470b148f2e386aebd1f12baa88a8"></td>
+      <td style="padding: 10px;"><img src="https://wikimedia.org/api/rest_v1/media/math/render/svg/2c74e5046994470b148f2e386aebd1f12baa88a8" alt="tupper's self-referential formula"></td>
     </tr>
   </table>
 </div>

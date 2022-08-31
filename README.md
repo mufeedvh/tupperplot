@@ -23,12 +23,6 @@ Tupper's self-referential formula is a formula that visually represents itself w
 
 ## Installation
 
-**Linux Dependencies:**
-
-```shell
-$ sudo apt install libxkbcommon-dev libwayland-cursor0 libwayland-dev
-```
-
 **Compile:**
 
 ```
@@ -37,17 +31,32 @@ $ cd tupperplot/
 $ cargo run --release
 ```
 
+
+**Linux Dependencies:**
+
+```shell
+$ sudo apt install libxkbcommon-dev libwayland-cursor0 libwayland-dev
+```
+
+## Usage
+
+**Generate Tupper's self-referential formula itself:**
+
+```
+$ tupperplot tuppers
+```
+
 **Generate Pacman Plot:**
 
 ```
-$ cargo run --release -- pacman
+$ tupperplot pacman
 ```
 
 
 **Generate Euler's Identity Plot:**
 
 ```
-$ cargo run --release -- euler
+$ tupperplot euler
 ```
 
 ### Implementation Details
